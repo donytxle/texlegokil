@@ -1,0 +1,16 @@
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/post/serviceContact cost :172
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/paytypes cost :2
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/exchange cost :3
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/post/coupon/usableList cost :3
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/autoupdate cost :5
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/model/report cost :3
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9///7.0.0/868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38
+jimmy run, url is:https://spgw-pay.finzfin.com/plugin/query/speaker cost :2
+jimmy run,  values is :&28&V6.0.1&OPPO/CPH1821/9////868473036359115/510011147947134&in-ID&0980D87417434E8AB1774A11DC322B38&E4:C4:83:72:68:B7&application/octet-stream
+jimmy run, url is:https://epoch.finzfin.com/collect/common/v1/stream cost :2
